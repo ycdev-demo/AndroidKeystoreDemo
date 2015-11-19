@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KeystoreDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="keychain_install_credentials">KeyChain Install Credentials</string>
+    <string name="keychain_request_credentials">KeyChain Request Credentials</string>
+    <string name="keystore_list_aliases">AndroidKeyStore List Aliases</string>
+    <string name="keystore_generate_private_key">AndroidKeyStore Generate Private Key</string>
+    <string name="keystore_generate_secret_key">AndroidKeyStore Generate Secret Key</string>
+    <string name="keystore_sign_verify">AndroidKeyStore Sign/Verify</string>
+    <string name="keystore_encrypt_decrypt">AndroidKeyStore Encrypt/Decrypt</string>
+</resources>
